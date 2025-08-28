@@ -1,4 +1,4 @@
-****Color Mixer ****
+**Color Mixer**
 A simple React project where you can mix Red, Green, and Blue values using sliders and generate a custom color.
 
 **Features**
